@@ -49,7 +49,7 @@ export default tseslint.config({
 })
 ```
 
--   How to run
+## How to run
 
 First you need to clone Micro Frontend repo and do guide in readme
 
